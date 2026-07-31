@@ -6,17 +6,20 @@
   "covers": [
     "https://files.catbox.moe/wsi924.png"
   ],
-  "chapters": {
+  "series": {
     "416": {
       "title": "declaration",
       "volume": "40",
+      "chapter": "416",
       "last_updated": 1700000000,
-      "pages": [
-        "https://files.catbox.moe/wsi924.png",
-        "https://files.catbox.moe/ok7bkl.png",
-        "https://files.catbox.moe/08ctvp.png",
-        "https://files.catbox.moe/t4hcgh.png"
-      ]
+      "groups": {
+        "Official": [
+          "https://files.catbox.moe/wsi924.png",
+          "https://files.catbox.moe/ok7bkl.png",
+          "https://files.catbox.moe/08ctvp.png",
+          "https://files.catbox.moe/t4hcgh.png"
+        ]
+      }
     }
   }
 }

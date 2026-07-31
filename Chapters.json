@@ -3,9 +3,7 @@
   "description": "Hunter x Hunter Manga",
   "artist": "Yoshihiro Togashi",
   "author": "Yoshihiro Togashi",
-  "covers": [
-    "https://cdn.imgchest.com/files/58ad032dea04.png"
-  ],
+  "cover": "https://cdn.imgchest.com/files/58ad032dea04.png",
   "chapters": {
     "416": {
       "title": "Declaration",

@@ -4,16 +4,18 @@
   "artist": "Yoshihiro Togashi",
   "author": "Yoshihiro Togashi",
   "covers": [
-    "https://files.catbox.moe/e47wvd.png"
+    "https://i.imgur.com/MOAXWkF.png"
   ],
   "chapters": {
     "416": {
       "title": "Declaration",
       "volume": "40",
-      "groups": {
-        "Scanlation Group": "/proxy/api/imgur/chapter/Dz5GqPy/"
-      },
-      "last_updated": 1700000000
+      "last_updated": 1700000000,
+      "pages": [
+        "https://i.imgur.com/X9Js7RX.png",
+        "https://i.imgur.com/PaGQbxK.png",
+        "https://i.imgur.com/MOAXWkF.png"
+      ]
     }
   }
 }

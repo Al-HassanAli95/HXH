@@ -2,11 +2,13 @@
   "title": "HxH",
   "author": "Yoshihiro Togashi",
   "artist": "Yoshihiro Togashi",
-  "description": "Type a short summary or synopsis of your manga story here.",
-  "cover": "https://catbox.moe",
+  "description": "Hunter x Hunter manga chapters.",
+  "cover": "https://files.catbox.moe/wsi924.png",
   "chapters": {
     "416": {
       "title": "declaration",
+      "volume": "40",
+      "last_updated": "1700000000",
       "groups": {
         "My Scan Group": [
           "https://files.catbox.moe/wsi924.png",
@@ -15,17 +17,6 @@
           "https://files.catbox.moe/t4hcgh.png"
         ]
       }
-    },
-    "2": {
-      "title": "The Next Step",
-      "groups": {
-        "My Scan Group": [
-          "https://catbox.moe",
-          "https://catbox.moe",
-          "https://catbox.moe"
-        ]
-      }
     }
   }
 }
-

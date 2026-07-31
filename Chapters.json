@@ -1,25 +1,19 @@
 {
-  "title": "HxH",
-  "author": "Yoshihiro Togashi",
+  "title": "Hunter x Hunter",
+  "description": "Hunter x Hunter Manga",
   "artist": "Yoshihiro Togashi",
-  "description": "Hunter x Hunter manga chapters.",
+  "author": "Yoshihiro Togashi",
   "covers": [
-    "https://files.catbox.moe/wsi924.png"
+    "https://i.imgur.com/Dz5GqPy.jpg"
   ],
-  "series": {
+  "chapters": {
     "416": {
-      "title": "declaration",
+      "title": "Declaration",
       "volume": "40",
-      "chapter": "416",
-      "last_updated": 1700000000,
       "groups": {
-        "Official": [
-          "https://files.catbox.moe/wsi924.png",
-          "https://files.catbox.moe/ok7bkl.png",
-          "https://files.catbox.moe/08ctvp.png",
-          "https://files.catbox.moe/t4hcgh.png"
-        ]
-      }
+        "Scanlation Group": "/proxy/api/imgur/chapter/Dz5GqPy/"
+      },
+      "last_updated": 1700000000
     }
   }
 }

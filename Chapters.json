@@ -4,18 +4,16 @@
   "artist": "Yoshihiro Togashi",
   "author": "Yoshihiro Togashi",
   "covers": [
-    "https://i.imgur.com/MOAXWkF.png"
+    "https://cdn.imgchest.com/files/58ad032dea04.png"
   ],
   "chapters": {
     "416": {
       "title": "Declaration",
       "volume": "40",
       "last_updated": 1700000000,
-      "pages": [
-        "https://i.imgur.com/X9Js7RX.png",
-        "https://i.imgur.com/PaGQbxK.png",
-        "https://i.imgur.com/MOAXWkF.png"
-      ]
+      "groups": {
+        "Default Group": "/proxy/api/imgchest/chapter/bp45bzd6245/"
+      }
     }
   }
 }

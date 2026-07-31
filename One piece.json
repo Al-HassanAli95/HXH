@@ -1,1 +1,17 @@
-
+{
+  "title": "One piece ",
+  "description": "One piece Manga",
+  "artist": "Eiichiro Oda",
+  "author": "Eiichiro Oda",
+  "cover": "https://cdn.imgchest.com/files/58ad032dea04.png",
+  "chapters": {
+    "1190": {
+      "title": "Declaration",
+      "volume": "40",
+      "last_updated": 1700000000,
+      "groups": {
+        "Frogus": "/proxy/api/imgchest/chapter/bp45bzd6245/"
+      }
+    }
+  }
+}
